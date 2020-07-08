@@ -1,0 +1,17 @@
+version: '3.0'
+
+networks:
+  elasticnet:
+    driver: bridge
+
+services:
+  logstash_dev_metricbeat:
+    image: docker.elastic.co/logstash/logstash:7.8.0
+    networks:
+      - elasticnet
+    volumes:
+      - "./logstash.yml:/usr/share/logstash/config/logstash.yml"
+      - "./jvm.options:/usr/share/logstash/config/jvm.options"
+      - "./pipeline.conf:/usr/share/logstash/pipeline/logstash.conf"
+    ports:
+      - "9704:5044"

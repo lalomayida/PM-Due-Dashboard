@@ -1,0 +1,103 @@
+FLEET,UNITTYPE,UNITNUMBER,MODEL,LASTDONE,DUEPERCENT,DUEMAINTENANCE,HEALTH
+Alpura,TRACTOR,1690,Freightliner Cascadia 2018,24/05/2019,10,No Maintenance Due,Saludable
+Nestle,DOLLY,1692,Dolly 2017,14/04/2019,40,No Maintenance Due,Saludable
+Nestle,DOLLY,1695,Dolly 2018,15/06/2018,85,No Maintenance Due,Warning
+Nestle,TRAILER,1697,Fruehauf Caja 2020,15/06/2018,10,No Maintenance Due,Saludable
+Nestle,TRACTOR,1699,Freightliner Cascadia 2018,23/07/2019,20,No Maintenance Due,Saludable
+Nestle,TRAILER,1700,Fruehauf Caja 2018,23/07/2019,10,No Maintenance Due,Saludable
+Nestle,TRACTOR,1702,Freightliner Cascadia 2019,12/03/2019,30,No Maintenance Due,Saludable
+Nestle,TRAILER,1703,Fruehauf Caja 2019,12/03/2019,30,No Maintenance Due,Saludable
+Nestle,TRACTOR,1705,Freightliner Cascadia 2017,24/01/2019,40,No Maintenance Due,Saludable
+Nestle,TRAILER,1706,Fruehauf Caja 2020,24/01/2019,65,No Maintenance Due,Saludable
+Nestle,DOLLY,1707,Dolly 2016,10/07/2019,30,No Maintenance Due,Saludable
+Samsung,TRACTOR,1727,Freightliner Cascadia 2018,15/06/2018,30,No Maintenance Due,Saludable
+Samsung,TRAILER,1728,Fruehauf Caja 2020,23/07/2019,40,No Maintenance Due,Saludable
+Samsung,DOLLY,1729,Dolly 2016,23/07/2019,50,No Maintenance Due,Saludable
+Samsung,TRACTOR,1730,Freightliner Cascadia 2018,23/07/2019,30,No Maintenance Due,Saludable
+Samsung,TRAILER,1731,Fruehauf Caja 2020,12/03/2019,40,No Maintenance Due,Saludable
+Samsung,DOLLY,1732,Dolly 2016,12/03/2019,50,No Maintenance Due,Saludable
+Samsung,TRACTOR,1733,Freightliner Cascadia 2018,12/03/2019,20,No Maintenance Due,Saludable
+Samsung,TRACTOR,1709,Freightliner Cascadia 2017,14/04/2019,150,PM  Tracto,Danger
+Samsung,TRACTOR,1712,Freightliner Cascadia 2018,15/06/2018,150,PM  Tracto,Danger
+Samsung,TRACTOR,1715,Freightliner Cascadia 2018,23/07/2019,150,PM  Tracto,Danger
+Samsung,TRACTOR,1718,Freightliner Cascadia 2018,12/03/2019,150,PM  Tracto,Danger
+Samsung,TRACTOR,1721,Freightliner Cascadia 2018,24/01/2019,150,PM  Tracto,Danger
+Samsung,TRACTOR,1724,Freightliner Cascadia 2018,14/04/2019,150,PM  Tracto,Danger
+Bachoco,TRAILER,1529,Fruehauf Caja 2018,15/06/2018,90,PM Caja,Warning
+Dell,TRAILER,1550,Fruehauf Caja 2019,15/06/2018,90,PM Caja,Warning
+Volvo,TRAILER,1580,Fruehauf Caja 2020,24/01/2019,90,PM Caja,Warning
+Berel,TRAILER,1619,Fruehauf Caja 2018,12/03/2019,90,PM Caja,Warning
+Barcel,TRAILER,1637,Fruehauf Caja 2018,23/07/2019,90,PM Caja,Warning
+CocaCola,TRAILER,1646,Fruehauf Caja 2018,10/07/2019,90,PM Caja,Warning
+Alpura,TRAILER,1691,Fruehauf Caja 2018,24/05/2019,90,PM Caja,Warning
+Nestle,TRAILER,1694,Fruehauf Caja 2019,14/04/2019,90,PM Caja,Warning
+Bachoco,DOLLY,1521,Dolly 2017,24/05/2019,120,PM Dolly,Danger
+Bachoco,DOLLY,1524,Dolly 2018,14/04/2019,120,PM Dolly,Danger
+Bachoco,DOLLY,1527,Dolly 2016,15/06/2018,120,PM Dolly,Danger
+Larmex,DOLLY,1539,Dolly 2017,10/07/2019,120,PM Dolly,Danger
+Dell,DOLLY,1554,Dolly 2016,12/03/2019,90,PM Dolly,Warning
+Dell,DOLLY,1557,Dolly 2017,24/01/2019,120,PM Dolly,Danger
+Dell,DOLLY,1560,Dolly 2018,10/07/2019,120,PM Dolly,Danger
+Volvo,DOLLY,1566,Dolly 2017,14/04/2019,120,PM Dolly,Danger
+Volvo,DOLLY,1578,Dolly 2018,24/01/2019,90,PM Dolly,Warning
+Volvo,DOLLY,1581,Dolly 2016,10/07/2019,120,PM Dolly,Danger
+Volvo,DOLLY,1584,Dolly 2017,24/05/2019,120,PM Dolly,Danger
+Berel,DOLLY,1593,Dolly 2017,23/07/2019,120,PM Dolly,Danger
+Berel,DOLLY,1596,Dolly 2018,12/03/2019,120,PM Dolly,Danger
+Berel,DOLLY,1605,Dolly 2018,24/05/2019,120,PM Dolly,Danger
+Berel,DOLLY,1608,Dolly 2016,14/04/2019,120,PM Dolly,Danger
+Berel,DOLLY,1617,Dolly 2016,12/03/2019,90,PM Dolly,Warning
+Barcel,DOLLY,1620,Dolly 2017,24/01/2019,120,PM Dolly,Danger
+Barcel,DOLLY,1623,Dolly 2018,10/07/2019,120,PM Dolly,Danger
+Barcel,DOLLY,1626,Dolly 2016,24/05/2019,120,PM Dolly,Danger
+Barcel,DOLLY,1635,Dolly 2016,23/07/2019,120,PM Dolly,Danger
+Barcel,DOLLY,1638,Dolly 2017,12/03/2019,120,PM Dolly,Danger
+CocaCola,DOLLY,1641,Dolly 2018,24/01/2019,120,PM Dolly,Danger
+CocaCola,DOLLY,1644,Dolly 2016,10/07/2019,120,PM Dolly,Danger
+CocaCola,DOLLY,1647,Dolly 2017,24/05/2019,120,PM Dolly,Danger
+CocaCola,DOLLY,1656,Dolly 2017,23/07/2019,120,PM Dolly,Danger
+CocaCola,DOLLY,1659,Dolly 2018,12/03/2019,120,PM Dolly,Danger
+Alpura,DOLLY,1668,Dolly 2018,24/05/2019,120,PM Dolly,Danger
+Alpura,DOLLY,1671,Dolly 2016,14/04/2019,120,PM Dolly,Danger
+Alpura,DOLLY,1680,Dolly 2016,12/03/2019,90,PM Dolly,Warning
+Alpura,DOLLY,1683,Dolly 2017,24/01/2019,120,PM Dolly,Danger
+Alpura,DOLLY,1686,Dolly 2018,10/07/2019,120,PM Dolly,Danger
+Alpura,DOLLY,1689,Dolly 2016,24/05/2019,120,PM Dolly,Danger
+Nestle,DOLLY,1698,Dolly 2016,23/07/2019,90,PM Dolly,Warning
+Nestle,DOLLY,1701,Dolly 2017,12/03/2019,120,PM Dolly,Danger
+Nestle,DOLLY,1704,Dolly 2018,24/01/2019,120,PM Dolly,Danger
+Samsung,DOLLY,1711,Dolly 2016,15/06/2018,150,PM Dolly,Danger
+Samsung,DOLLY,1714,Dolly 2016,23/07/2019,150,PM Dolly,Danger
+Samsung,DOLLY,1717,Dolly 2016,12/03/2019,150,PM Dolly,Danger
+Samsung,DOLLY,1720,Dolly 2016,24/01/2019,150,PM Dolly,Danger
+Samsung,DOLLY,1723,Dolly 2016,10/07/2019,150,PM Dolly,Danger
+Samsung,DOLLY,1726,Dolly 2016,15/06/2018,150,PM Dolly,Danger
+Bachoco,TRACTOR,1525,Freightliner Cascadia 2017,14/04/2019,140,PM Tracto,Danger
+Larmex,TRACTOR,1534,Freightliner Cascadia 2017,12/03/2019,140,PM Tracto,Danger
+Larmex,TRACTOR,1537,Freightliner Cascadia 2018,24/01/2019,90,PM Tracto,Warning
+Dell,TRACTOR,1549,Freightliner Cascadia 2019,15/06/2018,140,PM Tracto,Danger
+Dell,TRACTOR,1552,Freightliner Cascadia 2017,23/07/2019,140,PM Tracto,Danger
+Volvo,TRACTOR,1564,Freightliner Cascadia 2018,24/05/2019,140,PM Tracto,Danger
+Volvo,TRACTOR,1576,Freightliner Cascadia 2019,12/03/2019,140,PM Tracto,Danger
+Volvo,TRACTOR,1579,Freightliner Cascadia 2017,24/01/2019,90,PM Tracto,Warning
+Berel,TRACTOR,1600,Freightliner Cascadia 2018,24/01/2019,140,PM Tracto,Danger
+Berel,TRACTOR,1603,Freightliner Cascadia 2019,10/07/2019,140,PM Tracto,Danger
+Berel,TRACTOR,1615,Freightliner Cascadia 2017,23/07/2019,140,PM Tracto,Danger
+Berel,TRACTOR,1618,Freightliner Cascadia 2018,12/03/2019,90,PM Tracto,Warning
+Barcel,TRACTOR,1624,Freightliner Cascadia 2017,10/07/2019,140,PM Tracto,Danger
+Barcel,TRACTOR,1627,Freightliner Cascadia 2018,24/05/2019,90,PM Tracto,Warning
+CocaCola,TRACTOR,1642,Freightliner Cascadia 2017,24/01/2019,90,PM Tracto,Warning
+CocaCola,TRACTOR,1654,Freightliner Cascadia 2018,15/06/2018,140,PM Tracto,Danger
+CocaCola,TRACTOR,1657,Freightliner Cascadia 2019,23/07/2019,140,PM Tracto,Danger
+Alpura,TRACTOR,1672,Freightliner Cascadia 2018,14/04/2019,140,PM Tracto,Danger
+Alpura,TRACTOR,1684,Freightliner Cascadia 2019,24/01/2019,140,PM Tracto,Danger
+Alpura,TRACTOR,1687,Freightliner Cascadia 2017,10/07/2019,140,PM Tracto,Danger
+Nestle,TRACTOR,1693,Freightliner Cascadia 2019,14/04/2019,140,PM Tracto,Danger
+Nestle,TRACTOR,1696,Freightliner Cascadia 2017,15/06/2018,140,PM Tracto,Danger
+Nestle,TRACTOR,1708,Freightliner Cascadia 2018,10/07/2019,140,PM Tracto,Danger
+Samsung,TRAILER,1710,Fruehauf Caja 2020,15/06/2018,150,PM Trailer,Danger
+Samsung,TRAILER,1713,Fruehauf Caja 2020,23/07/2019,150,PM Trailer,Danger
+Samsung,TRAILER,1716,Fruehauf Caja 2020,12/03/2019,150,PM Trailer,Danger
+Samsung,TRAILER,1719,Fruehauf Caja 2020,24/01/2019,150,PM Trailer,Danger
+Samsung,TRAILER,1722,Fruehauf Caja 2020,10/07/2019,150,PM Trailer,Danger
+Samsung,TRAILER,1725,Fruehauf Caja 2020,15/06/2018,150,PM Trailer,Danger

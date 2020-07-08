@@ -1,0 +1,65 @@
+version: '3'
+services:
+  #Elastic Search Cluster
+  es1:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.8.0
+    ports:
+      - "9200:9200"
+    volumes:
+      - ./conf1/:/usr/share/elasticsearch/config:rw
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    networks:
+      - elasticnet
+  
+  es2:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.8.0
+    ports:
+      - "9202:9200"
+    volumes:
+      - ./conf2/:/usr/share/elasticsearch/config:rw
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    networks:
+      - elasticnet
+      
+  es3:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.8.0
+    ports:
+      - "9203:9200"
+    volumes:
+      - ./conf2/:/usr/share/elasticsearch/config:rw
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    networks:
+      - elasticnet
+  
+  #Kibana Service
+  kibana1:
+    image: docker.elastic.co/kibana/kibana:7.8.0
+    ports:
+      - "5601:5601"
+    volumes:
+      - kibana_conf:/usr/share/kibana/config
+    depends_on:
+    - es1
+    - es2
+    - es3
+    environment:
+      ELASTICSEARCH_URL: http://es1:9200
+      ELASTICSEARCH_HOSTS: http://es1:9200
+    networks:
+      - elasticnet
+
+volumes:
+   kibana_conf:
+
+networks:
+  elasticnet:
+    driver: bridge

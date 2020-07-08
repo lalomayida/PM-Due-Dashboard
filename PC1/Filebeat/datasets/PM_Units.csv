@@ -1,0 +1,132 @@
+FLEET,UNITTYPE,UNITNUMBER,MODEL,LASTDONE,DUEPERCENT,DUEMAINTENANCE,HEALTH
+GE,TRACTOR,1501,Freightliner Cascadia 2018,24/05/2019,30,No Maintenance Due,Saludable
+GE,TRAILER,1502,Fruehauf Caja 2018,24/05/2019,65,No Maintenance Due,Saludable
+GE,DOLLY,1503,Dolly 2017,14/04/2019,65,No Maintenance Due,Saludable
+GE,TRACTOR,1504,Freightliner Cascadia 2019,14/04/2019,40,No Maintenance Due,Saludable
+GE,TRAILER,1505,Fruehauf Caja 2019,14/04/2019,10,No Maintenance Due,Saludable
+GE,DOLLY,1506,Dolly 2018,15/06/2018,80,No Maintenance Due,Saludable
+GE,TRACTOR,1507,Freightliner Cascadia 2017,15/06/2018,80,No Maintenance Due,Saludable
+GE,TRAILER,1508,Fruehauf Caja 2020,15/06/2018,10,No Maintenance Due,Saludable
+GE,DOLLY,1509,Dolly 2016,23/07/2019,20,No Maintenance Due,Saludable
+Kellogs,TRACTOR,1510,Freightliner Cascadia 2018,23/07/2019,20,No Maintenance Due,Saludable
+Kellogs,TRAILER,1511,Fruehauf Caja 2018,23/07/2019,30,No Maintenance Due,Saludable
+Kellogs,DOLLY,1512,Dolly 2017,12/03/2019,30,No Maintenance Due,Saludable
+Kellogs,TRACTOR,1513,Freightliner Cascadia 2019,12/03/2019,30,No Maintenance Due,Saludable
+Kellogs,TRAILER,1514,Fruehauf Caja 2019,12/03/2019,10,No Maintenance Due,Saludable
+Kellogs,DOLLY,1515,Dolly 2018,24/01/2019,65,No Maintenance Due,Saludable
+Kellogs,TRACTOR,1516,Freightliner Cascadia 2017,24/01/2019,40,No Maintenance Due,Saludable
+Kellogs,TRAILER,1517,Fruehauf Caja 2020,24/01/2019,10,No Maintenance Due,Saludable
+Kellogs,DOLLY,1518,Dolly 2016,10/07/2019,80,No Maintenance Due,Saludable
+Kellogs,TRACTOR,1519,Freightliner Cascadia 2018,10/07/2019,30,No Maintenance Due,Saludable
+Bachoco,TRAILER,1520,Fruehauf Caja 2018,10/07/2019,30,No Maintenance Due,Saludable
+Bachoco,TRACTOR,1522,Freightliner Cascadia 2019,24/05/2019,65,No Maintenance Due,Saludable
+Bachoco,TRAILER,1523,Fruehauf Caja 2019,24/05/2019,40,No Maintenance Due,Saludable
+Bachoco,TRAILER,1526,Fruehauf Caja 2020,14/04/2019,85,No Maintenance Due,Warning
+Bachoco,TRACTOR,1528,Freightliner Cascadia 2018,15/06/2018,20,No Maintenance Due,Saludable
+Larmex,DOLLY,1530,Dolly 2017,23/07/2019,30,No Maintenance Due,Saludable
+Larmex,TRACTOR,1531,Freightliner Cascadia 2019,23/07/2019,40,No Maintenance Due,Saludable
+Larmex,TRAILER,1532,Fruehauf Caja 2019,23/07/2019,30,No Maintenance Due,Saludable
+Larmex,DOLLY,1533,Dolly 2018,12/03/2019,65,No Maintenance Due,Saludable
+Larmex,TRAILER,1535,Fruehauf Caja 2020,12/03/2019,65,No Maintenance Due,Saludable
+Larmex,DOLLY,1536,Dolly 2016,24/01/2019,80,No Maintenance Due,Saludable
+Larmex,TRAILER,1538,Fruehauf Caja 2018,24/01/2019,80,No Maintenance Due,Saludable
+Larmex,TRACTOR,1540,Freightliner Cascadia 2019,10/07/2019,10,No Maintenance Due,Saludable
+Larmex,TRAILER,1541,Fruehauf Caja 2019,10/07/2019,20,No Maintenance Due,Saludable
+Larmex,DOLLY,1542,Dolly 2018,24/05/2019,30,No Maintenance Due,Saludable
+Larmex,TRACTOR,1543,Freightliner Cascadia 2017,24/05/2019,10,No Maintenance Due,Saludable
+Larmex,TRAILER,1544,Fruehauf Caja 2020,24/05/2019,30,No Maintenance Due,Saludable
+Dell,DOLLY,1545,Dolly 2016,14/04/2019,30,No Maintenance Due,Saludable
+Dell,TRACTOR,1546,Freightliner Cascadia 2018,14/04/2019,30,No Maintenance Due,Saludable
+Dell,TRAILER,1547,Fruehauf Caja 2018,14/04/2019,85,No Maintenance Due,Warning
+Dell,DOLLY,1548,Dolly 2017,15/06/2018,40,No Maintenance Due,Saludable
+Dell,DOLLY,1551,Dolly 2018,23/07/2019,85,No Maintenance Due,Warning
+Dell,TRAILER,1553,Fruehauf Caja 2020,23/07/2019,10,No Maintenance Due,Saludable
+Dell,TRACTOR,1555,Freightliner Cascadia 2018,12/03/2019,20,No Maintenance Due,Saludable
+Dell,TRAILER,1556,Fruehauf Caja 2018,12/03/2019,10,No Maintenance Due,Saludable
+Dell,TRACTOR,1558,Freightliner Cascadia 2019,24/01/2019,30,No Maintenance Due,Saludable
+Dell,TRAILER,1559,Fruehauf Caja 2019,24/01/2019,30,No Maintenance Due,Saludable
+Dell,TRACTOR,1561,Freightliner Cascadia 2017,10/07/2019,40,No Maintenance Due,Saludable
+Volvo,TRAILER,1562,Fruehauf Caja 2020,10/07/2019,65,No Maintenance Due,Saludable
+Volvo,DOLLY,1563,Dolly 2016,24/05/2019,80,No Maintenance Due,Saludable
+Volvo,TRAILER,1565,Fruehauf Caja 2018,24/05/2019,80,No Maintenance Due,Saludable
+Volvo,TRACTOR,1567,Freightliner Cascadia 2019,14/04/2019,20,No Maintenance Due,Saludable
+Volvo,TRAILER,1568,Fruehauf Caja 2019,14/04/2019,20,No Maintenance Due,Saludable
+Volvo,DOLLY,1569,Dolly 2018,15/06/2018,30,No Maintenance Due,Saludable
+Volvo,TRACTOR,1570,Freightliner Cascadia 2017,15/06/2018,30,No Maintenance Due,Saludable
+Volvo,TRAILER,1571,Fruehauf Caja 2020,15/06/2018,30,No Maintenance Due,Saludable
+Volvo,DOLLY,1572,Dolly 2016,23/07/2019,40,No Maintenance Due,Saludable
+Volvo,TRACTOR,1573,Freightliner Cascadia 2018,23/07/2019,40,No Maintenance Due,Saludable
+Volvo,TRAILER,1574,Fruehauf Caja 2018,23/07/2019,40,No Maintenance Due,Saludable
+Volvo,DOLLY,1575,Dolly 2017,12/03/2019,85,No Maintenance Due,Warning
+Volvo,TRAILER,1577,Fruehauf Caja 2019,12/03/2019,85,No Maintenance Due,Warning
+Volvo,TRACTOR,1582,Freightliner Cascadia 2018,10/07/2019,10,No Maintenance Due,Saludable
+Volvo,TRAILER,1583,Fruehauf Caja 2018,10/07/2019,10,No Maintenance Due,Saludable
+Volvo,TRACTOR,1585,Freightliner Cascadia 2019,24/05/2019,10,No Maintenance Due,Saludable
+Volvo,TRAILER,1586,Fruehauf Caja 2019,24/05/2019,10,No Maintenance Due,Saludable
+Volvo,DOLLY,1587,Dolly 2018,14/04/2019,30,No Maintenance Due,Saludable
+Volvo,TRACTOR,1588,Freightliner Cascadia 2017,14/04/2019,30,No Maintenance Due,Saludable
+Volvo,TRAILER,1589,Fruehauf Caja 2020,14/04/2019,30,No Maintenance Due,Saludable
+Volvo,DOLLY,1590,Dolly 2016,15/06/2018,65,No Maintenance Due,Saludable
+Berel,TRACTOR,1591,Freightliner Cascadia 2018,15/06/2018,10,No Maintenance Due,Saludable
+Berel,TRAILER,1592,Fruehauf Caja 2018,15/06/2018,10,No Maintenance Due,Saludable
+Berel,TRACTOR,1594,Freightliner Cascadia 2019,23/07/2019,10,No Maintenance Due,Saludable
+Berel,TRAILER,1595,Fruehauf Caja 2019,23/07/2019,10,No Maintenance Due,Saludable
+Berel,TRACTOR,1597,Freightliner Cascadia 2017,12/03/2019,30,No Maintenance Due,Saludable
+Berel,TRAILER,1598,Fruehauf Caja 2020,12/03/2019,30,No Maintenance Due,Saludable
+Berel,DOLLY,1599,Dolly 2016,24/01/2019,65,No Maintenance Due,Saludable
+Berel,TRAILER,1601,Fruehauf Caja 2018,24/01/2019,65,No Maintenance Due,Saludable
+Berel,DOLLY,1602,Dolly 2017,10/07/2019,80,No Maintenance Due,Saludable
+Berel,TRAILER,1604,Fruehauf Caja 2019,10/07/2019,80,No Maintenance Due,Saludable
+Berel,TRACTOR,1606,Freightliner Cascadia 2017,24/05/2019,20,No Maintenance Due,Saludable
+Berel,TRAILER,1607,Fruehauf Caja 2020,24/05/2019,20,No Maintenance Due,Saludable
+Berel,TRACTOR,1609,Freightliner Cascadia 2018,14/04/2019,30,No Maintenance Due,Saludable
+Berel,TRAILER,1610,Fruehauf Caja 2018,14/04/2019,30,No Maintenance Due,Saludable
+Berel,DOLLY,1611,Dolly 2017,15/06/2018,40,No Maintenance Due,Saludable
+Berel,TRACTOR,1612,Freightliner Cascadia 2019,15/06/2018,40,No Maintenance Due,Saludable
+Berel,TRAILER,1613,Fruehauf Caja 2019,15/06/2018,40,No Maintenance Due,Saludable
+Berel,DOLLY,1614,Dolly 2018,23/07/2019,85,No Maintenance Due,Warning
+Berel,TRAILER,1616,Fruehauf Caja 2020,23/07/2019,85,No Maintenance Due,Warning
+Barcel,TRACTOR,1621,Freightliner Cascadia 2019,24/01/2019,40,No Maintenance Due,Saludable
+Barcel,TRAILER,1622,Fruehauf Caja 2019,24/01/2019,80,No Maintenance Due,Saludable
+Barcel,TRAILER,1625,Fruehauf Caja 2020,10/07/2019,20,No Maintenance Due,Saludable
+Barcel,TRAILER,1628,Fruehauf Caja 2018,24/05/2019,30,No Maintenance Due,Saludable
+Barcel,DOLLY,1629,Dolly 2017,14/04/2019,65,No Maintenance Due,Saludable
+Barcel,TRACTOR,1630,Freightliner Cascadia 2019,14/04/2019,10,No Maintenance Due,Saludable
+Barcel,TRAILER,1631,Fruehauf Caja 2019,14/04/2019,40,No Maintenance Due,Saludable
+Barcel,DOLLY,1632,Dolly 2018,15/06/2018,80,No Maintenance Due,Saludable
+Barcel,TRACTOR,1633,Freightliner Cascadia 2017,15/06/2018,10,No Maintenance Due,Saludable
+Barcel,TRAILER,1634,Fruehauf Caja 2020,15/06/2018,85,No Maintenance Due,Warning
+Barcel,TRACTOR,1636,Freightliner Cascadia 2018,23/07/2019,30,No Maintenance Due,Saludable
+Barcel,TRACTOR,1639,Freightliner Cascadia 2019,12/03/2019,65,No Maintenance Due,Saludable
+Barcel,TRAILER,1640,Fruehauf Caja 2019,12/03/2019,10,No Maintenance Due,Saludable
+CocaCola,TRAILER,1643,Fruehauf Caja 2020,24/01/2019,85,No Maintenance Due,Warning
+CocaCola,TRACTOR,1645,Freightliner Cascadia 2018,10/07/2019,10,No Maintenance Due,Saludable
+CocaCola,TRACTOR,1648,Freightliner Cascadia 2019,24/05/2019,10,No Maintenance Due,Saludable
+CocaCola,TRAILER,1649,Fruehauf Caja 2019,24/05/2019,10,No Maintenance Due,Saludable
+CocaCola,DOLLY,1650,Dolly 2018,14/04/2019,65,No Maintenance Due,Saludable
+CocaCola,TRACTOR,1651,Freightliner Cascadia 2017,14/04/2019,30,No Maintenance Due,Saludable
+CocaCola,TRAILER,1652,Fruehauf Caja 2020,14/04/2019,10,No Maintenance Due,Saludable
+CocaCola,DOLLY,1653,Dolly 2016,15/06/2018,80,No Maintenance Due,Saludable
+CocaCola,TRAILER,1655,Fruehauf Caja 2018,15/06/2018,30,No Maintenance Due,Saludable
+CocaCola,TRAILER,1658,Fruehauf Caja 2019,23/07/2019,65,No Maintenance Due,Saludable
+CocaCola,TRACTOR,1660,Freightliner Cascadia 2017,12/03/2019,20,No Maintenance Due,Saludable
+CocaCola,TRAILER,1661,Fruehauf Caja 2020,12/03/2019,80,No Maintenance Due,Saludable
+CocaCola,DOLLY,1662,Dolly 2016,24/01/2019,40,No Maintenance Due,Saludable
+CocaCola,TRACTOR,1663,Freightliner Cascadia 2018,24/01/2019,30,No Maintenance Due,Saludable
+CocaCola,TRAILER,1664,Fruehauf Caja 2018,24/01/2019,20,No Maintenance Due,Saludable
+CocaCola,DOLLY,1665,Dolly 2017,10/07/2019,85,No Maintenance Due,Warning
+CocaCola,TRACTOR,1666,Freightliner Cascadia 2019,10/07/2019,40,No Maintenance Due,Saludable
+Alpura,TRAILER,1667,Fruehauf Caja 2019,10/07/2019,10,No Maintenance Due,Saludable
+Alpura,TRACTOR,1669,Freightliner Cascadia 2017,24/05/2019,65,No Maintenance Due,Saludable
+Alpura,TRAILER,1670,Fruehauf Caja 2020,24/05/2019,30,No Maintenance Due,Saludable
+Alpura,TRAILER,1673,Fruehauf Caja 2018,14/04/2019,65,No Maintenance Due,Saludable
+Alpura,DOLLY,1674,Dolly 2017,15/06/2018,40,No Maintenance Due,Saludable
+Alpura,TRACTOR,1675,Freightliner Cascadia 2019,15/06/2018,20,No Maintenance Due,Saludable
+Alpura,TRAILER,1676,Fruehauf Caja 2019,15/06/2018,80,No Maintenance Due,Saludable
+Alpura,DOLLY,1677,Dolly 2018,23/07/2019,85,No Maintenance Due,Warning
+Alpura,TRACTOR,1678,Freightliner Cascadia 2017,23/07/2019,30,No Maintenance Due,Saludable
+Alpura,TRAILER,1679,Fruehauf Caja 2020,23/07/2019,20,No Maintenance Due,Saludable
+Alpura,TRACTOR,1681,Freightliner Cascadia 2018,12/03/2019,40,No Maintenance Due,Saludable
+Alpura,TRAILER,1682,Fruehauf Caja 2018,12/03/2019,30,No Maintenance Due,Saludable
+Alpura,TRAILER,1685,Fruehauf Caja 2019,24/01/2019,40,No Maintenance Due,Saludable
+Alpura,TRAILER,1688,Fruehauf Caja 2020,10/07/2019,85,No Maintenance Due,Warning

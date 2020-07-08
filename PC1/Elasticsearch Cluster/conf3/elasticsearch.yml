@@ -1,0 +1,6 @@
+cluster.name: "docker-cluster"
+node.name: node3
+discovery.seed_hosts: es1,es2,es3
+cluster.initial_master_nodes: node1,node2,node3
+network.host: 0.0.0.0
+bootstrap.memory_lock: true
